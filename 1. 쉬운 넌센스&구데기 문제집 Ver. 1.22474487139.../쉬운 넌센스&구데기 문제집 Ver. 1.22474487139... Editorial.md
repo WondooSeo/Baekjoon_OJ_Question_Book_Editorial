@@ -210,7 +210,7 @@ Ba ba ba / ba, ba, / ba ba, / baa, ba ba / Ba ba ba / ba, ba, ba ba / Yee
 
 ## Q18821 홀수와 짝수의 대결
 
-유명한 다이아5 문제입니다. [포여 추측](https://en.wikipedia.org/wiki/P%C3%B3lya_conjecture)을 이용하는 문제인데, 사실 이걸 알고 풀진 못합니다.
+유명한 다이아5 문제입니다. [포여 추측](https://en.wikipedia.org/wiki/P%C3%B3lya_conjecture)을 이용하는 문제인데, 이걸 알고 푸신 분이 계실까 싶기도...
 
 숫자가 매우 커서 (10억) 미리 전처리를 돌린 후에 코드를 짜야합니다. 아니면 구글링...
 
