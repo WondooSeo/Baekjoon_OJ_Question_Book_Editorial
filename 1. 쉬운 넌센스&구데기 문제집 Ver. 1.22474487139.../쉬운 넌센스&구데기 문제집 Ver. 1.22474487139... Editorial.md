@@ -208,6 +208,10 @@ Ba ba ba / ba, ba, / ba ba, / baa, ba ba / Ba ba ba / ba, ba, ba ba / Yee
 
 논의 환영합니다.
 
+## Q16017 총알의 속도
+
+속도를 구하는 간단한 문제입니다. 다만 시대가 현대임을 아주 많이 감안해야 풀 수 있습니다.
+
 ## Q18821 홀수와 짝수의 대결
 
 유명한 다이아5 문제입니다. [포여 추측](https://en.wikipedia.org/wiki/P%C3%B3lya_conjecture)을 이용하는 문제인데, 이걸 알고 푸신 분이 계실까 싶기도...
